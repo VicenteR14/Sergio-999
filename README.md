@@ -1,17 +1,20 @@
 # **Mi nombre es Sergio**
 ## Informacion sobre mi:
 1. Estoy estudiando un *_CFGS de DAM_*
-2. Vivo en Betxi, Castellón
+2. Vivo en [Betxi, Castellón](https://www.google.es/maps/place/12549+Betx%C3%AD,+Castell%C3%B3n/@39.9284539,-0.2050493,16z/data=!3m1!4b1!4m6!3m5!1s0xd600911eab1032f:0xc417e2ce783e4476!8m2!3d39.9271423!4d-0.1986798!16s%2Fm%2F0dll68t?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D)
 3. Tengo 20 años
 ### _Hobbies_
 * Me gusta el fútbol
 * En mi tiempo libre jugar videojuegos
 * Pasar tiempo con mis amigos
-  (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fcbarcelona.es%2Fes%2Fnoticias%2F1096252%2Flionel-messi-wins-espy-award-for-best-international-athlete-in-2015&psig=AOvVaw34Trzg4YurJS3mkXa2GB85&ust=1727418973489000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKimzL3_34gDFQAAAAAdAAAAABAE)
+![Messi](https://github.com/user-attachments/assets/113701c5-e959-471e-a0c1-165cc3e15850)
+
+
 ### _Cantantes favoritos_
 - Fernando Costa
 - Alsafir
 - Natos y Waor
+
 
 
 <!---
