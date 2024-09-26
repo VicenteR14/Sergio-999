@@ -11,9 +11,9 @@
 
 
 ### _Cantantes favoritos_
-- Fernando Costa
-- Alsafir
-- Natos y Waor
+- [Fernando Costa](https://www.youtube.com/@fernandocosta2439)
+- [Alsafir](https://www.youtube.com/@xalsafirx)
+- [Natos y Waor](https://www.youtube.com/@NatosyWaor)
 
 
 
