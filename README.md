@@ -5,7 +5,7 @@
 3. Tengo 20 años
 ### _Hobbies_
 * Me gusta el fútbol
-* En mi tiempo libre jugar videojuegos
+* En mi tiempo libre jugar
 * Pasar tiempo con mis amigos
 ![Messi](https://github.com/user-attachments/assets/113701c5-e959-471e-a0c1-165cc3e15850)
 
